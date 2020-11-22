@@ -1,29 +1,3 @@
-""" 
-
-1- ÇALIŞAN BİR OYUN (oldu)
-2- WİN STREAK SAYACI (oldu)
-3- STATS (oldu)
-4- GUI
-
-"""
-
-
-
-"""
-STATS
-
-1-NICK
-2-COIN
-3-WIN STREAK
-4-WINRATE
-5-OYUN SAYISI
-6-KAZANILAN OYUN
-7-KAYBEDİLEN
-8-DRAW
-
-"""
-
-
 
 import random
 from os import path
